@@ -1,0 +1,3 @@
+```sh
+$ gcc credit.c ../../utils.c -o credit
+```

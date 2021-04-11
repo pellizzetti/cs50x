@@ -1,0 +1,3 @@
+```sh
+$ gcc mario.c ../../utils.c -o mario
+```
